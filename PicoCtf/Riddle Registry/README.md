@@ -1,8 +1,11 @@
 #Riddle Registry — PicoCTF 
 ---
+PicoCTF practice problems :
+
+https://play.picoctf.org/practice?page=1
 
 Description
-
+-
 You found a PDF file that looks like random text or garbage. Don’t worry, the pages themselves don’t matter. The flag is hidden inside the PDF metadata, like the Author, Title, or other custom fields.
 File:
 Download confidential.pdf
