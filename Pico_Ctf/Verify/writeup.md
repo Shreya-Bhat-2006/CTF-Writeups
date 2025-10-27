@@ -104,6 +104,6 @@ Always verify a file with the checksum before running scripts on it. That way yo
 
 ---
 
-*Flag:* `picoCTF{trust_but_verify_00011a60}`
-
-*End of writeup.*
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
