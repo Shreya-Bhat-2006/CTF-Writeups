@@ -18,7 +18,14 @@ Can you use your knowledge of format strings to make the customers happy?Downloa
 
 [here](https://artifacts.picoctf.net/c_mimas/67/format-string-0.c)
 
-# 1) The normal, correct usage
+
+---
+
+# What  is format string???
+---
+
+
+## 1) The normal, correct usage
 
 ```c
 printf("Hello %s %x\n", name, some_int);
@@ -34,7 +41,7 @@ So `printf` parses the format string, finds `%s` → pulls the first argument (`
 
 ---
 
-# 2) The problematic case: no extra arguments
+## 2) The problematic case: no extra arguments
 
 ```c
 printf("AAAA %x %x %x");
