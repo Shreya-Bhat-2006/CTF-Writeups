@@ -85,3 +85,13 @@ picoCTF{Flag}
 - How to explore **Sources** panel to view webpage files.
 - Recognizing **Base64 encoded strings**.
 - How to decode Base64 to reveal hidden data.
+
+
+
+
+
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
