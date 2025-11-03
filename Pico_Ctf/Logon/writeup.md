@@ -44,3 +44,10 @@ The website was trusting the cookie value (`admin=True/False`) to decide permiss
 ### **One-Line Summary**
 
 I changed `admin=False` to `admin=True` in cookies, and the website trusted that and showed me the flag. 
+
+
+
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
