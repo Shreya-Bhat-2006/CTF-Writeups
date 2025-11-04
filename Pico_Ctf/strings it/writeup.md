@@ -142,3 +142,10 @@ Now `|` means:
 flag  OR  ctf  OR  thic
 
 ```
+
+
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
