@@ -49,3 +49,9 @@ http://jupiter.challenges.picoctf.org:36474/477ce.html
 ```
 
 And that page contained the flag. That’s how I solved it.
+
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
