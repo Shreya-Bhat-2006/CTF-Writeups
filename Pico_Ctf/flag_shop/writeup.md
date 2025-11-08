@@ -23,4 +23,11 @@ There's a flag shop selling stuff, can you buy a flag? [Source](https://jupiter
 - If `total_cost` becomes negative, `account_balance - total_cost` actually **adds** that absolute value to the balance — so my balance increases a lot.
 - The smallest number that causes overflow is `2386093` (because `900 * 2386093 = 2,147,483,700` which is just over `INT_MAX`).
 - So I did: buy the knockoff flags and entered `2386093` (or any large overflowing number). After that the program made `total_cost` negative and my `account_balance` became huge (much more than 100000).
-- Then I went back to Buy Flags → chose option `2` (1337 Flag) and entered `1` to buy. Now `if (account_balance > 100000)` is true, the program opened `flag.txt` and printed the flag. 
+- Then I went back to Buy Flags → chose option `2` (1337 Flag) and entered `1` to buy. Now `if (account_balance > 100000)` is true, the program opened `flag.txt` and printed the flag.
+
+  
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
