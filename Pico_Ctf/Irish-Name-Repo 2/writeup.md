@@ -97,3 +97,9 @@ Someone has bypassed the login before, and now it's being strengthened. Try to s
 - **Got the flag.**
     
     After logging in the page displayed the flag:
+
+
+
+  ⚠️ Safety note
+  --
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
