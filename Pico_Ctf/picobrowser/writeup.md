@@ -9,7 +9,7 @@ This website can be rendered only by **picobrowser**, go and catch the flag! `
 
 
 
-
+-----
 
 
 When I opened the link, there was a page with a **flag button**, but when I clicked the flag, **nothing happened**. Then I read the question carefully — it said that *“This website can be rendered only by picobrowser.”*
@@ -40,7 +40,7 @@ I unchecked “Use browser default” and changed the User-Agent to **picobrowse
 Then I refreshed the page and clicked the **flag button** again — this time, it **showed me the flag**!
 
 
-
+---
 
 ### 1. What actually happens when you open a website
 
@@ -64,7 +64,7 @@ For example:
 - A site might look different on a mobile browser vs desktop.
 - Some APIs or features only work in specific browsers.
 
----
+
 
 ### 2. What the challenge did
 
@@ -88,3 +88,12 @@ User-Agent: Mozilla/5.0 (...)
 ```
 
 So the website thought you were using a normal browser, not "picobrowser", and therefore **hid the flag**.
+
+
+
+---
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
