@@ -107,3 +107,9 @@ This printed the **final part of the flag**.
 # **Final Step — Combine all parts**
 
 After collecting all three pieces from the three branches, I joined them to get the **full flag**.
+
+
+⚠️ Safety note 
+-
+I confirm that I have NOT published any full flags, personal data, credentials, or harmful exploit instructions in this repository. All writeups show proof of solving with flags redacted (e.g. FLAG{REDACTED}) and are shared only for learning and discussion.
+
